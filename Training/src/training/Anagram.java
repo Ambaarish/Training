@@ -2,7 +2,7 @@ package training;
 
 import java.util.Arrays;
 
-public class Interview {
+public class Anagram {
 	
 	
 

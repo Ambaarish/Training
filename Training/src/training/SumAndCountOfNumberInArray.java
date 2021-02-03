@@ -1,6 +1,6 @@
 package training;
 
-public class Training3 {
+public class SumAndCountOfNumberInArray {
 
 
 	public static void main(String[] args) {
